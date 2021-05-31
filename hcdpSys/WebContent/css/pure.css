@@ -1,0 +1,52 @@
+
+#container {
+	position: absolute;
+	height: 20%;
+	width: 88%;
+	margin-top:10px;
+	margin-left:52px;
+}
+#output {
+	width: 100%;
+	height: 100%;
+}
+.color{
+	width: 120px;
+	height: 20px;
+	margin: 0 auto;
+	position: fixed;
+	left: 50%;
+	margin-left: -60px;
+	bottom: 20px;
+}
+.color li{
+	float: left;
+	margin: 0 5px;
+	width: 20px;
+	height: 20px;
+	background: #ccc;
+	box-shadow: 0 0 4px #FFF;
+	list-style: none;
+	cursor: pointer;
+}
+.color li:nth-child(1){
+	background: #002c4a;
+}
+.color li:nth-child(2){
+	background: #35ac03;
+}
+.color li:nth-child(3){
+	background: #ac0908;
+}
+.color li:nth-child(4){
+	background: #18bbff;
+}
+
+#title-info{
+	position:absolute;
+	font-family:仓耳章鱼小丸子体 W01;
+	color:#c0ecf3;
+	font-size:70px;
+	margin-top:70px;
+	margin-left:320px;
+}

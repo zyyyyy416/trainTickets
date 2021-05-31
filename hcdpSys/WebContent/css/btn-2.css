@@ -1,0 +1,13 @@
+.search_btn2 {
+	margin:2px;
+    background-color:#6fba26;
+    padding:10px;
+    position:relative;
+    font-family: 仓耳章鱼小丸子体 W01;
+    font-size:15px;
+    text-decoration:none;
+    color:#fff;
+    background-image: linear-gradient(bottom, rgb(100,170,30) 0%, rgb(129,212,51) 100%);
+    box-shadow: inset 0px 1px 0px #b2f17f, 0px 6px 0px #3d6f0d;
+    border-radius: 5px;
+}

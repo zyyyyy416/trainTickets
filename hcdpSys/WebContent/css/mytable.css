@@ -1,0 +1,30 @@
+table.mytable {
+	border-collapse: collapse;
+	font-size: 15px;
+}
+
+table.mytable .one {
+	background: #757e95;
+}
+
+table.mytable .two {
+	background: #6a748c;
+}
+
+table.mytable .oned {
+	border: 1px solid #e9eaf2;
+	padding: 5px;
+	background: rgba(255, 255, 255, 0.4);
+}
+
+table.mytable .twod {
+	border: 1px solid #e9eaf2;
+	padding: 5px;
+	background: rgba(f6, f6, f6, 0.4);
+}
+
+#nrdiv {
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 50px;
+}
